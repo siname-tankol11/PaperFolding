@@ -88,7 +88,7 @@
             this.groupBox1.Size = new System.Drawing.Size(570, 170);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "复杂度";
+            this.groupBox1.Text = "Complexity";
             // 
             // label4
             // 
@@ -97,7 +97,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(62, 18);
             this.label4.TabIndex = 14;
-            this.label4.Text = "候选数";
+            this.label4.Text = "Candidates";
             this.label4.Visible = false;
             // 
             // label5
@@ -107,7 +107,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(62, 18);
             this.label5.TabIndex = 13;
-            this.label5.Text = "候选数";
+            this.label5.Text = "Candidates";
             this.label5.Visible = false;
             // 
             // label6
@@ -115,9 +115,9 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(295, 45);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(62, 18);
+            this.label6.Size = new System.Drawing.Size(80, 18);
             this.label6.TabIndex = 12;
-            this.label6.Text = "候选数";
+            this.label6.Text = "Candidates";
             this.label6.Visible = false;
             // 
             // textBox4
@@ -154,7 +154,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(44, 18);
             this.label3.TabIndex = 8;
-            this.label3.Text = "数量";
+            this.label3.Text = "Quantity";
             // 
             // label2
             // 
@@ -163,7 +163,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 18);
             this.label2.TabIndex = 7;
-            this.label2.Text = "数量";
+            this.label2.Text = "Quantity";
             this.label2.Visible = false;
             // 
             // label1
@@ -171,9 +171,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(129, 42);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 18);
+            this.label1.Size = new System.Drawing.Size(70, 18);
             this.label1.TabIndex = 6;
-            this.label1.Text = "数量";
+            this.label1.Text = "Quantity";
             this.label1.Visible = false;
             // 
             // textBox3
@@ -211,7 +211,7 @@
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(70, 22);
             this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "三折";
+            this.checkBox3.Text = "3 Folds";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // checkBox2
@@ -221,7 +221,7 @@
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(70, 22);
             this.checkBox2.TabIndex = 1;
-            this.checkBox2.Text = "二折";
+            this.checkBox2.Text = "2 Folds";
             this.checkBox2.UseVisualStyleBackColor = true;
             this.checkBox2.Visible = false;
             // 
@@ -232,7 +232,7 @@
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(70, 22);
             this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "一折";
+            this.checkBox1.Text = "1 Fold";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.Visible = false;
             // 
@@ -243,7 +243,7 @@
             this.groupBox2.Size = new System.Drawing.Size(277, 397);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "模板";
+            this.groupBox2.Text = "Templates";
             // 
             // btnExport
             // 
@@ -251,7 +251,7 @@
             this.btnExport.Name = "btnExport";
             this.btnExport.Size = new System.Drawing.Size(98, 48);
             this.btnExport.TabIndex = 2;
-            this.btnExport.Text = "导出";
+            this.btnExport.Text = "Export";
             this.btnExport.UseVisualStyleBackColor = true;
             this.btnExport.Click += new System.EventHandler(this.btnExport_Click);
             // 
@@ -261,7 +261,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(98, 48);
             this.btnCancel.TabIndex = 3;
-            this.btnCancel.Text = "取消";
+            this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -271,7 +271,7 @@
             this.btnBrowser.Name = "btnBrowser";
             this.btnBrowser.Size = new System.Drawing.Size(62, 37);
             this.btnBrowser.TabIndex = 4;
-            this.btnBrowser.Text = "浏览";
+            this.btnBrowser.Text = "Browse";
             this.btnBrowser.UseVisualStyleBackColor = true;
             this.btnBrowser.Click += new System.EventHandler(this.btnBrowser_Click);
             // 
@@ -287,9 +287,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(324, 348);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(98, 18);
+            this.label7.Size = new System.Drawing.Size(113, 18);
             this.label7.TabIndex = 13;
-            this.label7.Text = "导出文件夹";
+            this.label7.Text = "Export Folder";
             // 
             // progressBar1
             // 
@@ -313,7 +313,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(80, 18);
             this.label8.TabIndex = 16;
-            this.label8.Text = "导出格式";
+            this.label8.Text = "Export format";
             // 
             // groupBox3
             // 
@@ -330,7 +330,7 @@
             this.groupBox3.Size = new System.Drawing.Size(570, 145);
             this.groupBox3.TabIndex = 17;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "图元概率";
+            this.groupBox3.Text = "Primitive Probability";
             // 
             // textRate4
             // 
@@ -371,7 +371,7 @@
             this.checkCutObj4.Name = "checkCutObj4";
             this.checkCutObj4.Size = new System.Drawing.Size(70, 22);
             this.checkCutObj4.TabIndex = 5;
-            this.checkCutObj4.Text = "四个";
+            this.checkCutObj4.Text = "Four";
             this.checkCutObj4.UseVisualStyleBackColor = true;
             // 
             // checkCutObj3
@@ -381,7 +381,7 @@
             this.checkCutObj3.Name = "checkCutObj3";
             this.checkCutObj3.Size = new System.Drawing.Size(70, 22);
             this.checkCutObj3.TabIndex = 4;
-            this.checkCutObj3.Text = "三个";
+            this.checkCutObj3.Text = "Three";
             this.checkCutObj3.UseVisualStyleBackColor = true;
             // 
             // checkCutObj2
@@ -393,7 +393,7 @@
             this.checkCutObj2.Name = "checkCutObj2";
             this.checkCutObj2.Size = new System.Drawing.Size(70, 22);
             this.checkCutObj2.TabIndex = 3;
-            this.checkCutObj2.Text = "二个";
+            this.checkCutObj2.Text = "Two";
             this.checkCutObj2.UseVisualStyleBackColor = true;
             // 
             // checkCutObj1
@@ -405,7 +405,7 @@
             this.checkCutObj1.Name = "checkCutObj1";
             this.checkCutObj1.Size = new System.Drawing.Size(70, 22);
             this.checkCutObj1.TabIndex = 2;
-            this.checkCutObj1.Text = "一个";
+            this.checkCutObj1.Text = "One";
             this.checkCutObj1.UseVisualStyleBackColor = true;
             // 
             // ExportTypeBForm
@@ -425,7 +425,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "ExportTypeBForm";
-            this.Text = "导出TYPE-B";
+            this.Text = "Export TYPE-B";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ExportForm_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.ExportTypeCForm_FormClosed);
             this.Load += new System.EventHandler(this.ExportTypeBForm_Load);

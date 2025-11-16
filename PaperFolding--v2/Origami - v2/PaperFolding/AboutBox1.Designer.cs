@@ -100,7 +100,7 @@ namespace Origami
             this.labelVersion.Name = "labelVersion";
             this.labelVersion.Size = new System.Drawing.Size(406, 24);
             this.labelVersion.TabIndex = 0;
-            this.labelVersion.Text = "版本 1.0";
+            this.labelVersion.Text = "Version 1.0";
             this.labelVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // labelCopyright

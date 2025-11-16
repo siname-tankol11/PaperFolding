@@ -102,13 +102,13 @@
             // 
             this.逆推BToolStripMenuItem.Name = "逆推BToolStripMenuItem";
             this.逆推BToolStripMenuItem.Size = new System.Drawing.Size(152, 28);
-            this.逆推BToolStripMenuItem.Text = "逆推B";
+            this.逆推BToolStripMenuItem.Text = "Reverse B";
             // 
             // 逆推CToolStripMenuItem
             // 
             this.逆推CToolStripMenuItem.Name = "逆推CToolStripMenuItem";
             this.逆推CToolStripMenuItem.Size = new System.Drawing.Size(152, 28);
-            this.逆推CToolStripMenuItem.Text = "逆推C";
+            this.逆推CToolStripMenuItem.Text = "Reverse C";
             // 
             // exportToolStripMenuItem
             // 
@@ -215,7 +215,7 @@
             this.btnExtraTest1.Name = "btnExtraTest1";
             this.btnExtraTest1.Size = new System.Drawing.Size(91, 36);
             this.btnExtraTest1.TabIndex = 11;
-            this.btnExtraTest1.Text = "非标折1";
+            this.btnExtraTest1.Text = "Special Fold 1";
             this.btnExtraTest1.UseVisualStyleBackColor = true;
             this.btnExtraTest1.Click += new System.EventHandler(this.btnExtraTest1_Click);
             // 
@@ -226,7 +226,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 18);
             this.label1.TabIndex = 10;
-            this.label1.Text = "纸张类型";
+            this.label1.Text = "Paper Type";
             // 
             // comboBox1
             // 
@@ -242,7 +242,7 @@
             this.btnTest7.Name = "btnTest7";
             this.btnTest7.Size = new System.Drawing.Size(91, 36);
             this.btnTest7.TabIndex = 8;
-            this.btnTest7.Text = "折7";
+            this.btnTest7.Text = "Fold 7";
             this.btnTest7.UseVisualStyleBackColor = true;
             this.btnTest7.Click += new System.EventHandler(this.btnTest7_Click);
             // 
@@ -252,7 +252,7 @@
             this.btnTest8.Name = "btnTest8";
             this.btnTest8.Size = new System.Drawing.Size(91, 36);
             this.btnTest8.TabIndex = 7;
-            this.btnTest8.Text = "折8";
+            this.btnTest8.Text = "Fold 8";
             this.btnTest8.UseVisualStyleBackColor = true;
             this.btnTest8.Click += new System.EventHandler(this.btnTest8_Click);
             // 
@@ -262,7 +262,7 @@
             this.btnTestHole.Name = "btnTestHole";
             this.btnTestHole.Size = new System.Drawing.Size(91, 36);
             this.btnTestHole.TabIndex = 6;
-            this.btnTestHole.Text = "测试区域";
+            this.btnTestHole.Text = "Test Area";
             this.btnTestHole.UseVisualStyleBackColor = true;
             this.btnTestHole.Click += new System.EventHandler(this.btnTestHole_Click);
             // 
@@ -272,7 +272,7 @@
             this.btnTest6.Name = "btnTest6";
             this.btnTest6.Size = new System.Drawing.Size(91, 36);
             this.btnTest6.TabIndex = 5;
-            this.btnTest6.Text = "折6";
+            this.btnTest6.Text = "Fold 6";
             this.btnTest6.UseVisualStyleBackColor = true;
             this.btnTest6.Click += new System.EventHandler(this.btnTest6_Click);
             // 
@@ -282,7 +282,7 @@
             this.btnTest5.Name = "btnTest5";
             this.btnTest5.Size = new System.Drawing.Size(91, 36);
             this.btnTest5.TabIndex = 4;
-            this.btnTest5.Text = "折5";
+            this.btnTest5.Text = "Fold 5";
             this.btnTest5.UseVisualStyleBackColor = true;
             this.btnTest5.Click += new System.EventHandler(this.btnTest5_Click);
             // 
@@ -292,7 +292,7 @@
             this.btnTest4.Name = "btnTest4";
             this.btnTest4.Size = new System.Drawing.Size(91, 36);
             this.btnTest4.TabIndex = 3;
-            this.btnTest4.Text = "折4";
+            this.btnTest4.Text = "Fold 4";
             this.btnTest4.UseVisualStyleBackColor = true;
             this.btnTest4.Click += new System.EventHandler(this.btnTest4_Click);
             // 
@@ -302,7 +302,7 @@
             this.btnTest3.Name = "btnTest3";
             this.btnTest3.Size = new System.Drawing.Size(91, 36);
             this.btnTest3.TabIndex = 2;
-            this.btnTest3.Text = "折3";
+            this.btnTest3.Text = "Fold 3";
             this.btnTest3.UseVisualStyleBackColor = true;
             this.btnTest3.Click += new System.EventHandler(this.btnTest3_Click);
             // 
@@ -312,7 +312,7 @@
             this.btnTest2.Name = "btnTest2";
             this.btnTest2.Size = new System.Drawing.Size(91, 36);
             this.btnTest2.TabIndex = 1;
-            this.btnTest2.Text = "折2";
+            this.btnTest2.Text = "Fold 2";
             this.btnTest2.UseVisualStyleBackColor = true;
             this.btnTest2.Click += new System.EventHandler(this.btnTest2_Click);
             // 
@@ -322,7 +322,7 @@
             this.btnTest1.Name = "btnTest1";
             this.btnTest1.Size = new System.Drawing.Size(91, 36);
             this.btnTest1.TabIndex = 0;
-            this.btnTest1.Text = "折1";
+            this.btnTest1.Text = "Fold 1";
             this.btnTest1.UseVisualStyleBackColor = true;
             this.btnTest1.Click += new System.EventHandler(this.btnTest1_Click);
             // 
