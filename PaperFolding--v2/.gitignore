@@ -1,0 +1,46 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj.user
+*.dbmdl
+*.log
+*.pidb
+*.svclog
+*.scc
+
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.xml
+*.cache
+
+# Package files
+packages/
+*.nupkg
+*.nuspec
+
+# Test results
+TestResults/
+*.trx
+
+# Debug files
+*.debug
+*.map
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Project specific files
+Product/
+功能列表.txt
+*.manifest
+*.config
