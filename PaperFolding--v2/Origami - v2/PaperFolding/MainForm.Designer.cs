@@ -224,14 +224,14 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(3, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(80, 18);
-            this.label1.TabIndex = 10;
+            this.label1.Size = new System.Drawing.Size(60, 18);
+            this.label1.TabIndex = 8;
             this.label1.Text = "Paper Type";
             // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(89, 17);
+            this.comboBox1.Location = new System.Drawing.Point(100, 17);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 26);
             this.comboBox1.TabIndex = 9;
