@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaperFolding--v2\\Origami - v2\\PaperFolding\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +28,22 @@
               "RelativeDocumentMoniker": "PaperFolding--v2\\Origami - v2\\PaperFolding\\MainForm.Designer.cs",
               "ToolTip": "C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\MainForm.Designer.cs",
               "RelativeToolTip": "PaperFolding--v2\\Origami - v2\\PaperFolding\\MainForm.Designer.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAAAOUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACwBAAAAAAAAAADwv7sAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:16:12.564Z",
+              "WhenOpened": "2025-11-17T06:37:20.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrigamiConfuseScheme.cs",
-              "DocumentMoniker": "C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs",
-              "RelativeDocumentMoniker": "PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs",
-              "ToolTip": "C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs",
-              "RelativeToolTip": "PaperFolding--v2\\Origami - v2\\PaperFolding\\Engine\\OrigamiConfuseScheme.cs",
-              "ViewState": "AgIAALYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs",
+              "RelativeDocumentMoniker": "PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs",
+              "ToolTip": "C:\\Users\\wyx\\Desktop\\1\\PaperFolding\\PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs",
+              "RelativeToolTip": "PaperFolding--v2\\Origami - v2\\PaperFolding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:10:15.678Z",
+              "WhenOpened": "2025-11-17T06:37:17.091Z",
               "EditorCaption": ""
             }
           ]
